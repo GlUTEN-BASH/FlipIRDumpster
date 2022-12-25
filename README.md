@@ -2,3 +2,7 @@
 ![Photo](https://img.fix-price.com/400x400/images/origin/origin/1b278fe39da9ec5ed70fa9a2b4dbdc64.jpg)
 # [Luminarte Light Remote](https://github.com/GlUTEN-BASH/FlipIRDumpster/blob/main/Luminarte.ir)
 ![Photo](https://cdn.leroymerlin.ru/lmru/image/upload/v1656589136/b_white,c_pad,d_photoiscoming.png,f_auto,h_400,q_auto,w_400/lmcode/ORg5ePoQDkeW0DRVJPw02A/85243348_08.png)
+# [Roomba Limiter](https://github.com/GlUTEN-BASH/FlipIRDumpster/blob/main/Roomba.ir)
+![Photo](https://irobot-ibc.ru/files/products/4473043-1-600.600x600.jpg)
+# [DJI Robomaster Blaster](https://github.com/GlUTEN-BASH/FlipIRDumpster/blob/main/Robomaster_Blaster.ir)
+![Photo](https://www1.djicdn.com/cms/uploads/a0b52a60d4037f24d0028890b7915f18.jpg)

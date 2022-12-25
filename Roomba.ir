@@ -1,0 +1,14 @@
+Filetype: IR signals file
+Version: 1
+# 
+name: Point
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 531 7446 508 7469 516
+# 
+name: Radius
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 511 7477 508 7474 511

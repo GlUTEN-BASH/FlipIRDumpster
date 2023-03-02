@@ -6,3 +6,5 @@
 ![Photo](https://irobot-ibc.ru/files/products/4473043-1-600.600x600.jpg)
 # [DJI Robomaster Blaster](https://github.com/GlUTEN-BASH/FlipIRDumpster/blob/main/Robomaster_Blaster.ir)
 ![Photo](https://www1.djicdn.com/cms/uploads/a0b52a60d4037f24d0028890b7915f18.jpg)
+# [HexBug Spider Remote](https://github.com/GlUTEN-BASH/FlipIRDumpster/blob/main/Hexbug.ir)
+![Photo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi4z0coCftodGFH66shFT2B7LpoJZsXCZaQQR6lgmzT4MUHKlJoyu5SNhhFaw_KfuQM-A&usqp=CAU)
